@@ -1,4 +1,5 @@
 # Write code below 💖
+# ik heb een extra commentaar lijn toegevoegd
 
 print("Welcome to rock, paper or scissors!")
 print("  1) 🪨")
